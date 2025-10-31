@@ -5,6 +5,11 @@ __pycache__/
 
 *_key.py
 *credentials.json
+*token.json
+
+# Environment variables
+.env
+
 # C extensions
 *.so
 
